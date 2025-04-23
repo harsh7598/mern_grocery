@@ -1,1 +1,1 @@
-Navbar - https://prebuiltui.com/
+Components - https://prebuiltui.com/
